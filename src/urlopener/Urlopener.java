@@ -14,7 +14,7 @@ import java.util.logging.Logger;
  * 
  * 
  * 
- * @author lili3
+ * @author Liang Liu
  */
 
 public class Urlopener {
