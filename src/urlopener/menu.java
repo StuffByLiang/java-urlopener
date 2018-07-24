@@ -32,7 +32,7 @@ public class menu {
             console.clearScreen();
             System.out.println(""
                     + "1 > Create new url bundle\n"
-                    + "2 > Configure existing url bundle\n"
+                    + "2 > Configure/view existing url bundle\n"
                     + "3 > Delete exisiting url bundle\n"
                     + "4 > Open url bundle\n"
                     + "5 > Exit program\n");
