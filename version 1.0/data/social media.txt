@@ -1,0 +1,5 @@
+chrome
+facebook.com
+gmail.com
+instagram.com
+reddit.com

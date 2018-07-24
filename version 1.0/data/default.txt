@@ -1,0 +1,4 @@
+chrome
+google.com
+facebook.com
+gmail.com
